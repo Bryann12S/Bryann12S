@@ -1,4 +1,5 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/def7ba14-ba4a-4ff2-bc97-e2785f2bd597" />
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/6feccef6-d6a9-4df5-96ee-59a1b914eb7d" />
+
 
 Enfocado en crear aplicaciones web y de escritorio robustas, eficientes y escalables. Me encanta resolver problemas complejos a través del código, cuidar la arquitectura y mantener un aprendizaje continuo.
 
