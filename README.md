@@ -34,5 +34,5 @@
 ---
 
 ### 📫 Conéctate conmigo
-* 💼 **LinkedIn:** [[linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/bryan-shiguango-b41402351/?skipRedirect=true))
+* 💼 **LinkedIn:** [inkedin.com/in/bryan-shiguango]
 * 📧 **Email:** bryanshiguango6@gmail.com
