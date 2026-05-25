@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=007ACC&height=200&section=header&text=BRYAN%20SHIGUANGO&fontSize=50&animation=twinkling&fontColor=ffffff" alt="Banner Animado" />
-</p>
-# ¡Hola! Soy Bryan Shiguango 👋
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/def7ba14-ba4a-4ff2-bc97-e2785f2bd597" />
 
-**Ingeniero y Desarrollador Software Full-Stack** enfocado en crear aplicaciones web y de escritorio robustas, eficientes y escalables. Me encanta resolver problemas complejos a través del código, cuidar la arquitectura y mantener un aprendizaje continuo.
+Enfocado en crear aplicaciones web y de escritorio robustas, eficientes y escalables. Me encanta resolver problemas complejos a través del código, cuidar la arquitectura y mantener un aprendizaje continuo.
 
 ---
 
